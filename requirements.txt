@@ -1,0 +1,21 @@
+# 논문 수집
+arxiv>=2.1,<5
+requests>=2.31
+
+# PDF 파싱
+pdfplumber>=0.11
+
+# 텍스트 분석 / 요약
+anthropic>=0.120
+scikit-learn>=1.4
+
+# 웹 UI
+streamlit>=1.40
+
+# 시각화
+plotly>=5.20
+matplotlib>=3.8
+wordcloud>=1.9
+
+# 환경변수(.env)
+python-dotenv>=1.0
