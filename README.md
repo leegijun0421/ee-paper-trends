@@ -6,6 +6,8 @@ A Streamlit app that pulls recent arXiv papers in EE-adjacent categories, extrac
 
 > Built by a first-year EE student at Korea University, for first-year EE students. I am the primary user; every feature exists because an earlier version got in my way.
 
+![The trend view — TF-IDF candidates merged by Claude into research topics, ranked by how many papers mention each](docs/image.png)
+
 한국어 문서는 [README.ko.md](README.ko.md)에 있습니다.
 
 ---
